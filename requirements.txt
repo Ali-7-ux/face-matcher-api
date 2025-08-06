@@ -1,3 +1,5 @@
+Flask==2.3.3
+flask-cors==4.0.0
 click==8.2.1
 colorama==0.4.6
 dlib==20.0.0
